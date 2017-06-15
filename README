@@ -1,0 +1,14 @@
+A collection of scripts that grew out of LIGO commissioning and analysis work.
+
+AM_phase holds scripts used for the following publication: https://doi.org/10.1364/OE.23.019417
+
+OMC_ASC has diagonalization scripts for the alignment control of the H1 output mode cleaner
+
+OMC_length has scripts for OMC length noise estimates and propagation into the gravitational wave channel
+
+modescan is a bunch of code for using the OMC as an optical spectrum analyzer
+
+misc has a few things:
+ - back-of-the-envelope estimates of binary black hole merger rates, and LIGO detection rates for neutron star mergers
+ - routine to calculate GW observatory antenna patterns
+ - libraries to generate BNS and sine-gaussian waveforms, and for SNR estimation
